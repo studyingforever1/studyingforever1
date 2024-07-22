@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <br>
   <samp>
     Hello there! I'm <b>studyingforever1</b>.
-    <br>I'm a High-performance component enthusiasts.<br>
+    <br>I'm a high-performance component enthusiasts.<br>
 
 </samp>
 
